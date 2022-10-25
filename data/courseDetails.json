@@ -82,17 +82,17 @@
     {
         "_id": "635781fcf602e84d57cb81f2",
         "course_id": "06",
-        "title": "",
-        "details": "",
-        "level": "",
-        "ratings": "",
-        "lession": "",
-        "student": "",
-        "duration": "",
-        "price": "",
-        "assessments": "",
-        "author": "",
-        "author_img_url": "",
-        "img_url": ""
+        "title": "Learn How to Unleash Your True Potential",
+        "details": "This self-help course explains the self-improvement techniques used by successful people to harness the power of positive thinking and achieve their goals.",
+        "level": "Beginners",
+        "ratings": "4.7/5",
+        "lession": "20",
+        "student": "60",
+        "duration": "40 Hours",
+        "price": "800",
+        "assessments": "Self",
+        "author": "Mike Yao",
+        "author_img_url": "https://coursera-instructor-photos.s3.amazonaws.com/d3/b3d720666811e7a3a2418f414130f7/_DSC2072.jpg",
+        "img_url": "../images/unleash.jpg"
     }
 ]
