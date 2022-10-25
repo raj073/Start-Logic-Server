@@ -11,5 +11,5 @@ app.get('/', (req, res) => {
 
 
 app.listen(port, () => {
-    console.log('Start Logic Platform Server Running on PORT:', port);
+    console.log('Start Logic Server Running on PORT:', port);
 })
