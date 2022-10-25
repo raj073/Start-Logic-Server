@@ -1,33 +1,35 @@
 [
     {
         "_id": "635781fc026beb5ac77e3a7b",
-        "course_id": "01",
-        "title": "",
-        "details": "",
-        "level": "",
-        "ratings": "",
-        "lession": "",
-        "student": "",
-        "duration": "",
-        "price": "",
-        "assessments": "",
-        "lecturer": "",
-        "img_url": ""
+        "course_id": "02",
+        "title": "Supervised Machine Learning: Regression and Classification",
+        "details": "Welcome to the Machine Learning Specialization! You're joining millions of others who have taken either this or the original course, which led to the founding of Coursera, and has helped millions of other learners, like you, take a look at the exciting world of machine learning!",
+        "level": "Beginner",
+        "ratings": "4.9/5",
+        "lession": "30 Lessons",
+        "student": "130",
+        "duration": "120 Hours",
+        "price": "1000",
+        "assessments": "Self",
+        "author": "Aarti Bagul",
+        "author_img_url": "../images/aarti_bagul.jpg",
+        "img_url": "../images/machine.jpg"
     },
     {
         "_id": "635781fc9f3cb72f33e23bf1",
-        "course_id": "02",
-        "title": "",
-        "details": "",
-        "level": "",
-        "ratings": "",
-        "lession": "",
-        "student": "",
-        "duration": "",
-        "price": "",
-        "assessments": "",
-        "lecturer": "",
-        "img_url": ""
+        "course_id": "01",
+        "title": "Blockchain Basics & Bitcoin and Cryptocurrency Technologies",
+        "details": "This first course of the Blockchain specialization provides a broad overview of the essential concepts of blockchain technology by initially exploring the Bitcoin protocol followed by the Ethereum protocol to lay the foundation necessary for developing applications and programming. You will be equipped with the knowledge needed to create nodes on your personal Ethereum blockchain, create accounts, unlock accounts, mine, transact, transfer Ethers, and check balances.",
+        "level": "Advanced",
+        "ratings": "4.8/5",
+        "lession": "32 Lessons",
+        "student": "60",
+        "duration": "90 Hours",
+        "price": "1200",
+        "assessments": "Combined",
+        "author": "Andrew Ng",
+        "author_img_url": "../images/Andrew Ng.png",
+        "img_url": "../images/blockchain.jpg"
     },
     {
         "_id": "635781fcde99e00c122deece",
@@ -41,7 +43,8 @@
         "duration": "",
         "price": "",
         "assessments": "",
-        "lecturer": "",
+        "author": "",
+        "author_img_url": "",
         "img_url": ""
     },
     {
@@ -56,7 +59,8 @@
         "duration": "",
         "price": "",
         "assessments": "",
-        "lecturer": "",
+        "author": "",
+        "author_img_url": "",
         "img_url": ""
     },
     {
@@ -71,7 +75,8 @@
         "duration": "",
         "price": "",
         "assessments": "",
-        "lecturer": "",
+        "author": "",
+        "author_img_url": "",
         "img_url": ""
     },
     {
@@ -86,7 +91,8 @@
         "duration": "",
         "price": "",
         "assessments": "",
-        "lecturer": "",
+        "author": "",
+        "author_img_url": "",
         "img_url": ""
     }
 ]
