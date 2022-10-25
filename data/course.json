@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "Block Chain"
+    },
+    {
+        "id": "02",
+        "name": "Machine Learning"
+    },
+    {
+        "id": "03",
+        "name": "Web Design & Development"
+    },
+    {
+        "id": "04",
+        "name": "Digital Marketing"
+    },
+    {
+        "id": "05",
+        "name": "CCNA & Networking"
+    },
+    {
+        "id": "06",
+        "name": "Leadership and Marketing"
+    }
+]
